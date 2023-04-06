@@ -1,6 +1,5 @@
-def call(String name,String dayofweek) {
-  echo "Hello ${name}. today is ${dayofweek}."
-}
+def call(String name) {
+  echo "Hello ${name}."
 def call() {
   echo "Hello ninja's"
 }
